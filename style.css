@@ -1,0 +1,13 @@
+body {
+	background-color: darkred;
+}
+h1 {
+	text-align: center;
+}
+img {
+	width: 400px;
+}
+p {
+	color: white;
+	font-size: 20px;
+}
